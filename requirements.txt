@@ -1,0 +1,15 @@
+# Frontend
+streamlit>=1.36.0
+
+# Data Processing & Parsing
+pandas>=2.2.3
+openpyxl>=3.1.2
+python-multipart>=0.0.9
+
+# LLM Orchestration
+langchain>=0.2.6
+langchain-community>=0.2.6
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.8.2
